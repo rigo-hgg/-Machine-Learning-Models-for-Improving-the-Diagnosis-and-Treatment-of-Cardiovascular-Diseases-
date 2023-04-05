@@ -8,4 +8,4 @@ parameters, drug therapies, lipid, and glycemic profiles).
 On tabular data with clinical and lab test information machine learning (ML) algorithms has been applied using as predictors the variables recorded during the first visit and as targets two clinical indicators of cardiovascular risk
 recorded during the last visit: 
 - SCORE (percentage probability of incurring fatal cardiovascular events)
-- presence of a cardiovascular event
+-presence of a carotid plaque (defined for IMT >1.3 mm
